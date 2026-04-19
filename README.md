@@ -1,24 +1,36 @@
-# 🚗 Vehicle Rental System
+# 🚗 Free2Move - Vehicle Rental System
 
-A Python-based vehicle rental system using MySQL for managing users, vehicles, and bookings.
+A Python + MySQL based console application for managing vehicle rentals.
 
-## ✨ Features
+## 🔹 Features
+- Admin panel to view users, vehicles, and bookings
+- User registration and booking system
+- Vehicle selection (Car, Bike, Scooter)
+- Rental duration and cost calculation
+- Email confirmation after booking
 
-* User registration and login
-* Vehicle booking system
-* Admin dashboard
-* Payment handling
-* Email confirmation
+## 🔹 Technologies Used
+- Python
+- MySQL
+- MySQL Connector
+- SMTP (for email notifications)
 
-## 🛠 Tech Stack
+## 🔹 Screenshots
 
-* Python
-* MySQL
-* mysql-connector
+### Admin View
+![Admin](screenshots/admin_view.png)
 
-## ▶️ How to Run
+### Booking Process
+![Booking](screenshots/user_booking_flow.png)
 
-```bash id="1ot0fq"
-pip install -r requirements.txt
-python main.py
-```
+### Confirmation
+![Confirmation](screenshots/booking_confirmation.png)
+
+### Email Output
+![Email](screenshots/email_output.png)
+
+## 🔹 How to Run
+1. Install dependencies
+2. Set up MySQL database
+3. Update database credentials in `main.py`
+4. Run:
