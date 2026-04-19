@@ -7,7 +7,7 @@ from designs import *
 
 printbanner()
 
-mydb = mysql.connector.connect(host="localhost", user="root", password="123abc")
+mydb = mysql.connector.connect(host="localhost", user="root", password="YOUR_PASSWORD")
 
 if mydb.is_connected() == True:
 
