@@ -20,6 +20,10 @@ A Python + MySQL based console application for managing vehicle rentals.
 ### Admin View
 <img width="1710" height="736" alt="image" src="https://github.com/user-attachments/assets/95abe127-95e5-4519-8aff-c0abb5c06c02" />
 
+<img width="413" height="283" alt="image" src="https://github.com/user-attachments/assets/40515944-b86b-41a5-8fa5-6fb1aa75e4df" />
+
+<img width="270" height="284" alt="image" src="https://github.com/user-attachments/assets/923cdb39-f095-4685-b939-8671b795beee" />
+
 
 ### Booking Process
 
