@@ -18,16 +18,21 @@ A Python + MySQL based console application for managing vehicle rentals.
 ## 🔹 Screenshots
 
 ### Admin View
-![Admin](screenshots/admin_view.png)
+<img width="1710" height="736" alt="image" src="https://github.com/user-attachments/assets/95abe127-95e5-4519-8aff-c0abb5c06c02" />
+
 
 ### Booking Process
-![Booking](screenshots/user_booking_flow.png)
 
-### Confirmation
-![Confirmation](screenshots/booking_confirmation.png)
+<img width="787" height="766" alt="image" src="https://github.com/user-attachments/assets/0e55fdc1-8c63-472c-b1bb-c9d53b936ab1" />
+<img width="868" height="763" alt="image" src="https://github.com/user-attachments/assets/183c76ee-5f9e-497c-9a0f-bc05d896a53d" />
+
+
 
 ### Email Output
-![Email](screenshots/email_output.png)
+
+<img width="1297" height="532" alt="image" src="https://github.com/user-attachments/assets/e9edc27c-012d-4e9e-b38b-5d00a94c5883" />
+<img width="715" height="384" alt="image" src="https://github.com/user-attachments/assets/eec74a3d-c574-4533-a87e-f2f7a22db30c" />
+
 
 ## 🔹 How to Run
 1. Install dependencies
